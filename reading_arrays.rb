@@ -1,5 +1,5 @@
 STUDENT_NAMES = [
-  "Adele",
+  "Adele",      
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
@@ -9,6 +9,7 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
+  Puts room.first
 end
 
 def fourth_student_by_index
